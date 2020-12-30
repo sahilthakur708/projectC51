@@ -1,0 +1,201 @@
+body{
+    background-color: rgb(205, 249, 255);
+}
+
+.elements{
+
+text-align: center;
+padding: 40px;
+    margin: 40px;
+}
+
+.cicada1{
+    background-color: lightblue;
+    border: solid;
+    text-align: center;
+  padding: 50px;
+  margin: 50px;
+}
+
+.cicada{
+    
+    background-color: rgb(198, 173, 230);
+    border: solid;
+    text-align: center;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 40px;
+    margin: 40px;
+
+}   
+
+.comment1{
+
+    background-color: rgb(198, 173, 230);
+    border: solid;
+    text-align: center;    
+
+
+}
+
+
+.comment2{
+
+    background-color: rgb(236, 48, 48);
+    border: solid;
+    text-align: center;
+      
+
+}
+
+.comment3{
+
+    background-color: rgb(218, 94, 187);
+    border: solid;
+    text-align: center;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 40px;
+    margin: 40px;
+}
+
+
+.chameleon{
+
+    background-color: rgb(198, 173, 230);
+    border: solid;
+    text-align: center;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 40px;
+    margin: 40px;
+
+}
+
+.comment4{
+
+    background-color: rgb(250, 234, 15);
+    border: solid;
+    text-align: center;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 40px;
+    margin: 40px;
+}
+
+.comment5{
+
+    background-color: rgb(250, 176, 15);
+    border: solid;
+    text-align: center;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 40px;
+    margin: 40px;
+}
+
+.camel{
+    background-color: rgb(199, 19, 235);
+    border: solid;
+    text-align: center;
+    padding: 40px;
+    margin: 40px;
+  
+
+}
+.comment6{
+    background-color: rgb(250, 15, 66);
+    border: solid;
+    text-align: center;
+    padding: 40px;
+    margin: 40px;
+}
+
+.panda1{
+    
+    background-color: rgb(19, 167, 235);
+    border: solid;
+    text-align: center;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 40px;
+    margin: 40px;
+}
+
+.panda{
+    
+    background-color: rgb(247, 72, 209);
+    border: solid;
+    text-align: center;
+    padding: 40px;
+    margin: 40px;
+}
+
+.comment7{
+
+    background-color: rgb(247, 250, 75);
+    border: solid;
+    text-align: center;
+    padding: 40px;
+    margin: 40px;
+
+}
+
+.pegion1{
+
+    background-color: rgb(47, 0, 255);
+    border: solid;
+    text-align: center;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 40px;
+    margin: 40px;
+}
+
+.pegion{
+
+    background-color:rgb(198, 173, 230);
+    border: solid;
+    text-align: center;
+    padding: 40px;
+    margin: 40px;
+
+}
+
+.comment8{
+
+    background-color: rgb(46, 252, 138);
+    border: solid;
+    text-align: center;
+    padding: 40px;
+    margin: 40px;
+
+}
+
+.teddy1{
+
+    background-color:orange;
+    border: solid;
+    text-align: center;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 40px;
+    margin: 40px;
+}
+
+.teddy{
+    background-color: rgb(235, 19, 19);
+    border: solid;
+    text-align: center;
+    
+    padding: 40px;
+    margin: 40px;
+}
